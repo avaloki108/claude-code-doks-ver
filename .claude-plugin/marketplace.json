@@ -145,6 +145,17 @@
       },
       "source": "./plugins/security-guidance",
       "category": "security"
+    },
+    {
+      "name": "web3-security-audit",
+      "description": "Web3 smart contract and dApp vulnerability hunter based on the OWASP Smart Contract Security Top 10 and Web3 Attack Vectors Top 15",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/web3-security-audit",
+      "category": "security"
     }
   ]
 }
